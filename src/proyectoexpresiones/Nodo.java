@@ -17,7 +17,7 @@ package proyectoexpresiones;
  * 
  * Esta estructura permite construir y recorrer el árbol de manera ordenada.
  * 
- * @author jorge
+ * @author Grupo I
  */
 public class Nodo {
     private String valor;     // Valor del nodo (operador o variable)
