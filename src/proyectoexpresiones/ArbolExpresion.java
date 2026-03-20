@@ -15,7 +15,7 @@ import java.util.Stack;
  * - Aplicar precedencia de operadores y manejo de paréntesis
  * - Generar la raíz del árbol para recorridos y evaluación
  * 
- * @author jorge
+ * @author Grupo I
  */
 public class ArbolExpresion {
     
