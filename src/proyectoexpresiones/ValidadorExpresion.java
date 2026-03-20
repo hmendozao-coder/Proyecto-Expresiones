@@ -13,7 +13,7 @@ package proyectoexpresiones;
  * Se encarga de verificar que la expresión cumpla con el patrón
  * definido y evitar errores al construir el árbol de expresiones.
  * 
- * @author jorge
+ * @author Grupo I
  */
 public class ValidadorExpresion {
 
