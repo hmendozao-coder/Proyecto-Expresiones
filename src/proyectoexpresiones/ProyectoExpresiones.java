@@ -17,7 +17,7 @@ import java.util.*;
  * - Mostrar recorridos (inorden, preorden, postorden)
  * - Evaluar la expresión mostrando el comportamiento de la pila
  * 
- * @author jorge
+ * @author Grupo I
  */
 public class ProyectoExpresiones {
     public static void main(String[] args) {
